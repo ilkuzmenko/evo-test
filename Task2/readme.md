@@ -8,4 +8,5 @@ Database: **PostgreSQL**
 2. Use 'docker-compose up --build'
 3. Open [http://localhost:5000/](http://localhost:5000/) in browser.
 
+Deployed by AWS EC2 Ubuntu.
 Link to the [working version](http://13.51.238.169:8080/).
