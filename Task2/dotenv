@@ -1,0 +1,4 @@
+PG_USER=user
+PG_PASS=changeme
+PG_HOST=db
+PG_DB_NAME=postgres
